@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basseysilver
-- 👀 I’m interested in programming and 
+- 👀 I’m interested in learning programming languages 
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on any projects given to me
 - 📫 How to reach me .... 
